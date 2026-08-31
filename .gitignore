@@ -21,6 +21,8 @@ coverage*.xml
 .vs/
 .vscode/*
 !.vscode/extensions.json
+!.vscode/mcp.json
+!.vscode/README.md
 .idea/
 *.swp
 
